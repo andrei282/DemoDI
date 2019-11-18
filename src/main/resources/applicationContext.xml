@@ -1,0 +1,5 @@
+<beans>
+    <bean id="firstServiceClass" class="ro.teamnet.andrei.di.service.impl.FirstServiceClass" />
+    <bean id="secondServiceClass" class="ro.teamnet.andrei.di.service.impl.SecondServiceClass" />
+    <bean id="thirdServiceClass" class="ro.teamnet.andrei.di.service.impl.ThirdServiceClass" />
+</beans>
